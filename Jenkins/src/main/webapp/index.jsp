@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome To First page Jenkin</h2>
+<h2>Welcome To Jenkins</h2>
 </body>
 </html>
