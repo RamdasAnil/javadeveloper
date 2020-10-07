@@ -1,6 +1,6 @@
 <html>
 <body>
-<h3>Welcome To Jenkins  </h3>
+<h6>Welcome To Jenkins  </h6>
 
 </body>
 </html>
